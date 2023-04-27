@@ -26,7 +26,7 @@ const animalData=[
     {
         name: "Black Spider Monkey",
         imageUrl:"https://files.worldwildlife.org/wwfcmsprod/images/Black_Spider_Monkey_Hero_and_Circle_Image/hero_full/82dd5zx3tv_Black_Spider_Monkey_8.1.2012_Hero_and_circle_HI_105023.jpg",
-        description: "also known as the Guiana or red-faced spider monkey",
+        description: "It is also known as the Guiana or red-faced spider monkey",
         donation:0
     },
     {
