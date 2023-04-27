@@ -1,7 +1,7 @@
 const animalData=[
     { 
         name: "Red Panda",
-        imageUrl:"https://files.worldwildlife.org/wwfcmsprod/images/HERO_Red_Panda_279141/hero_full/7bkg4jrmln_XL_279141.jpgD",
+        imageUrl:"https://files.worldwildlife.org/wwfcmsprod/images/HERO_Red_Panda_279141/hero_full/7bkg4jrmln_XL_279141.jpg",
         description:" not actually a panda",
         donation:0
     },
@@ -36,3 +36,4 @@ const animalData=[
         donation:0
     },
 ]
+
