@@ -18,6 +18,7 @@ function renderOneAnimal(animal){
         <button> Set free </button>
       </div>
     `
+   
     //add animal card to DOM
 document.getElementById("list").appendChild(card)
 
